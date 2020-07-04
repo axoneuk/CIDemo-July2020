@@ -19,5 +19,15 @@ public class Test1 {
         System.out.println("Running test 3");
     }
 
+    @Test
+    public void test13(){
+        System.out.println("Running test 13");
+    }
+
+    @Test
+    public void test23(){
+        System.out.println("Running test 23");
+    }
+
 
 }
