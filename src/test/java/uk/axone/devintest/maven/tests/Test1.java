@@ -13,11 +13,13 @@ public class Test1 {
     @Test
     public void test2(){
         System.out.println("Running test 2");
+        Assert.fail();
     }
 
     @Test
     public void test3(){
         System.out.println("Running test 3");
+        Assert.fail();
     }
 
     @Test
